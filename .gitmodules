@@ -1,0 +1,9 @@
+[submodule "lib/Adafruit-SSD1351-library"]
+	path = lib/Adafruit-SSD1351-library
+	url = https://github.com/Fortinbra/Adafruit-SSD1351-library.git
+[submodule "lib/Adafruit-GFX-Library-Pico"]
+	path = lib/Adafruit-GFX-Library-Pico
+	url = https://github.com/Fortinbra/Adafruit-GFX-Library-Pico.git
+[submodule "lib/Adafruit_BusIO"]
+	path = lib/Adafruit_BusIO
+	url = https://github.com/Fortinbra/Adafruit_BusIO.git
